@@ -5,7 +5,6 @@
 <h2>Jenkins and Tomcat integration with plugin and pollscm </h2>
 <h2>Jenkins and Tomcat integration with plugin and webhooks </h2>
 <h2>Jenkins and Tomcat integration with plugin and scripted pipelines </h2>
-<h2>Ansible and Tomcat integration </h2>
 
 
 </body>
