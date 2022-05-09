@@ -6,7 +6,7 @@
 <h2>Jenkins and Tomcat integration with plugin and webhooks </h2>
 <h2>Jenkins and Tomcat integration with plugin and scripted pipelines </h2>
 <h2>This is pavankumarreddy</h2>
-<h2>Devops training</h2>
+
 
 </body>
 </html>
